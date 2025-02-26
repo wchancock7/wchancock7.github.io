@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 
 <html lang="en-US">
-    <head>
-        <title>Website List</title>
-    </head>
     <body>
         <h1>Website List</h1>
 
-        <h2>List of my websites</h2>
+        <p><b>List of my websites<b>
 
-        <ul>
-            <li><a href="./IKEA/">IKEA</a></li>
-        </ul>
+        <a href="./IKEA/">IKEA</a><br>
+
+        </p>
+        
     </body>
 </html>
